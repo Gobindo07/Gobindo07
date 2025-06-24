@@ -8,7 +8,7 @@
 ![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
  👨‍💻 About Me:
-- 🔭 Working on: **[QUICKHELP](https://github.com/Gobindo07/QUICKHELP)**
+- 🔭 Working on: **[STOCK MARKET PREDICTOR](https://github.com/Gobindo07/Stock-market-predictor)**
 - 🌱 Learning: **Cloud Computing, DevOps**
 - 👯 Open to collaborate on: **Real-world backend projects**
 - 💬 Ask me about: **Python, Flask, SQL, Git**
